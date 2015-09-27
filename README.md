@@ -6,7 +6,7 @@ get torrent resources or magnet link by key words
 1.Abount
 dialog.py 界面文件
 magnet.py 运行文件
-![image](https://github.com/linghutf/magnet-torrent-searcher/master/run.png)
+![image](https://github.com/linghutf/magnet-torrent-searcher/raw/master/run.png)
 终端运行python magnet.py 
 
 2.Requirement
