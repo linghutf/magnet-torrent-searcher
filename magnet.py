@@ -11,7 +11,7 @@ import os
 
 global MAGNET_HEAD,SEARCH_URL,TRANS_URL
 MAGNET_HEAD = 'magnet:?xt=urn:btih:'
-SEARCH_URL = 'http://www.bt2mag.com/search/'
+SEARCH_URL = 'http://www.btaia.com/search/'
 TRANS_URL = 'http://magnet.vuze.com/magnetLookup'
 
 
